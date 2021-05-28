@@ -1,7 +1,5 @@
 package com.company;
 
-import java.sql.SQLOutput;
-
 public class Help3 {
     public static void main(String[] args) throws java.io.IOException {
 //  Начало работы программы - отображение меню справки
