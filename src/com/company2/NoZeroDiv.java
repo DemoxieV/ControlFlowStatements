@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 // Предотвращение деления на нуль с помощью тернарного оператора
 public class NoZeroDiv {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 //Continue с меткой
 public class ContToLabel {
     public static void main(String[] args) {

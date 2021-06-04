@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 //Расширенный break с меткой для выхода из ряда вложенных циклов
 public class Break5 {
     public static void main(String[] args) {

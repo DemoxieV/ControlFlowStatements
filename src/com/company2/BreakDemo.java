@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 //Выполнение цикла до тех пор, пока квадрат значения переменной i меньше значения переменной num
 public class BreakDemo {
     public static void main(String[] args) {

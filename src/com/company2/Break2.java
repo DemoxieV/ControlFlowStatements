@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 
 public class Break2 {
     public static void main(String[] args) throws java.io.IOException{

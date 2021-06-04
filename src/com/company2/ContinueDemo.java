@@ -1,4 +1,4 @@
-package com.company;
+package com.company2;
 //Вывод четных чисел в пределах от 0 до 100
 public class ContinueDemo {
     public static void main(String[] args) {

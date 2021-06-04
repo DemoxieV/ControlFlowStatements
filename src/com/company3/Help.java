@@ -1,4 +1,4 @@
-package com.company;
+package com.company3;
 
 public class Help{
     public static void main(String[] args) throws java.io.IOException {
