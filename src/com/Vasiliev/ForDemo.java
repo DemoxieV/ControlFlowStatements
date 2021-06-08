@@ -3,10 +3,14 @@ package com.Vasiliev;
 // Сумма квадратов натуральных чисел
 public class ForDemo {
     public static void main(String[] args) {
-        int s = 0, k, n = 10;
-        for (k = 1; k <= n; k++) {
-            s += k * k;
-        }
+        int s, n = 500;
+            s=(n*(n+1)*(2*n+1))/6;
+
+        //Альтернативный способ:
+//        int s = 0, k, n = 500;
+//        for (k = 1; k <= n; k++) {
+//            s += k * k;
+//        }
         // Вариации этого кода через цикл for:
 /*    int s=0, n=10;
       for (int k=1; k<=n: k++) s+=k*k;
